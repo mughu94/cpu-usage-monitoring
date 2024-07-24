@@ -1,4 +1,4 @@
-![Screenshot_12](https://github.com/user-attachments/assets/506453ce-181a-4a00-a651-391e28e71930)# CPU Monitor Script (`cpumonitor.sh`)
+# CPU Monitor Script (`cpumonitor.sh`)
 
 This script monitors the CPU usage of all cores on a Linux system and sends a notification to a specified Telegram chat if all cores are using more than 80% of their capacity.
 
@@ -73,7 +73,7 @@ To run the script at regular intervals, you can add a cron job. For example, to 
     This will run the script every 5 minutes.
 
 ## Screenshot
-![Uploading Screenshot_12.png…]()
+![Screenshot_12](https://github.com/user-attachments/assets/506453ce-181a-4a00-a651-391e28e71930)
 
 
 ## License

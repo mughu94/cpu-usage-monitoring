@@ -25,7 +25,7 @@ This script monitors the CPU usage of all cores on a Linux system and sends a no
 1. **Clone the repository**:
 
     ```sh
-    git clone [https://github.com/yourusername/yourrepository.git](https://github.com/mughu94/cpu-usage-monitoring.git)
+    git clone (https://github.com/mughu94/cpu-usage-monitoring.git)
     cd cpu-usage-monitoring
     ```
 
